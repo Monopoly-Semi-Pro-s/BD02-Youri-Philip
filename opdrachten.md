@@ -134,7 +134,3 @@ Op te leveren onderdelen:
 - [ ] opdracht 1
 - [ ] opdracht 2
 - [ ] opdracht 3
-<!-- The styling of the markdown file -->
-<style type="text/css">
-    ol ol { list-style-type: upper-alpha; }
-</style>
