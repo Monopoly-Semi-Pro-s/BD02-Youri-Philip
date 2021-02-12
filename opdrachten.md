@@ -34,8 +34,9 @@ Werk onderstaande opdrachten uit met inductie. Beschrijf per opdracht:
 
 ### Checklist
 
-- [ ] opdracht 1
-- [ ] opdracht 2
+- [x] opdracht 1: Decrease and conquer
+- [ ] opdracht 1: Devide and conquer
+- [x] opdracht 2
 - [ ] opdracht 3
 - [ ] opdracht 4
 
